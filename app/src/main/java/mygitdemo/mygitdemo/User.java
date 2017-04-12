@@ -24,4 +24,8 @@ public class User {
     public void setAge(int age) {
         this.age = age;
     }
+
+    public void feature2(int age){
+        this.age=age;
+    }
 }
