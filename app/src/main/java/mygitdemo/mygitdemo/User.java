@@ -10,8 +10,18 @@ public class User {
 
     private String useName;
 
+    private int age;
+
     public void feature1(String useName) {
         this.useName = useName;
 
+    }
+
+    public int getAge() {
+        return age;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
     }
 }
