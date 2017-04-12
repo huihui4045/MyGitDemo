@@ -39,4 +39,11 @@ public class User {
     public void feature4(){
 
     }
+
+    /**
+     * 在feature5 中添加feature5方法
+     */
+    public void feature5(){
+
+    }
 }
