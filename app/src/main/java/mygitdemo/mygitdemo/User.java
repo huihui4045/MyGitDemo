@@ -7,4 +7,11 @@ package mygitdemo.mygitdemo;
  */
 
 public class User {
+
+    private String useName;
+
+    public void feature1(String useName) {
+        this.useName = useName;
+
+    }
 }
