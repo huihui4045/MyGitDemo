@@ -25,7 +25,7 @@ public class User {
         this.age = age;
     }
 
-    public void feature2(int age){
+    public void feature3(int age){
         this.age=age;
     }
 }
